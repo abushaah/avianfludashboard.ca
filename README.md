@@ -9,12 +9,12 @@ Throughout development, I worked with PhD students in data science to visualize 
 Milestones include prototyping, research, setup, development & implementation, security, and usability.
 
 Softwares that I worked with to develope the website:
-    - Figma
-    - HTML, CSS, JavaScript
-    - RESTful APIs (NodeJS, Express, etc)
-    - Data visualization and geographical softwares (ArcGIS ESRI JS API, Dash JS API)
-    - AWS Softwares (AWS EC2 servers, Route 53, VPC)
-    - Nginx Reverse Proxy, Systemd
-    - php server
-    - MySQL database
-    - Linux
+    * Figma
+    * HTML, CSS, JavaScript
+    * RESTful APIs (NodeJS, Express, etc)
+    * Data visualization and geographical softwares (ArcGIS ESRI JS API, Dash JS API)
+    * AWS Softwares (AWS EC2 servers, Route 53, VPC)
+    * Nginx Reverse Proxy, Systemd
+    * php server
+    * MySQL database
+    * Linux
