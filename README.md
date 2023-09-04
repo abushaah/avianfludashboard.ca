@@ -18,3 +18,5 @@ Softwares that I worked with to develope the website:
   * php server
   * MySQL database
   * Linux
+
+For more information on the website development, refer to https://haifaaabushaaban.wordpress.com/
