@@ -8,12 +8,11 @@ Milestones include prototyping, research, server setup, development & implementa
 
 Softwares that I worked with to develope the website:
   * Figma
-    * Prototypes can be viewed here: https://haifaaabushaaban.wordpress.com/about-my-job-copy/
   * HTML, CSS, JavaScript
     * Front-end
-  * RESTful APIs (NodeJS, Express, etc)
+  * RESTful APIs (NodeJS, Express, Flask, etc)
     * Back-end
-  * Data visualization and geographical softwares (ArcGIS ESRI JS API, Dash JS API)
+  * Data visualization and geographical softwares (ArcGIS ESRI JS API, Dash JS API, Leaflet.js)
     * Map Avian Influenza cases and regions
     * GeoJSON file integration featuring polygonal or geometrical boundary data for accurate visualization of states, regions, and provinces
   * AWS Softwares (AWS Elastic Cloud Compute Linux servers, Route 53, VPC)
@@ -27,5 +26,3 @@ Softwares that I worked with to develope the website:
     * To manage the MySQL database
   * MySQL database
     * Store real-time data collected through social media APIs
-
-For more information on the website development, refer to https://haifaaabushaaban.wordpress.com/
